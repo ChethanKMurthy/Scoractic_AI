@@ -85,4 +85,4 @@ Loads environment variables from the .env file.
 
 Security: Never commit your .env file or API key directly to version control (like Git). Ensure .env is listed in your .gitignore file.
 
-Python Version: If you have multiple Python versions, use python3 -m venv and ensure the activated environment is using Python 3
+Python Version: If you have multiple Python versions, use python3 -m venv and ensure the activated environment is using Python 3.
